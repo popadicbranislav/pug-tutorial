@@ -3,6 +3,10 @@
 ## Install pug
 
 ```
+npm install -g pug-cli
+
+# or
+
 pnpm add -g pug-cli
 ```
 
