@@ -2,7 +2,7 @@
 
 ## Install pug
 
-```
+```sh
 npm install -g pug-cli
 
 # or
@@ -14,4 +14,10 @@ pnpm add -g pug-cli
 
 ```
 pug -w . -o ./dist
+```
+
+Generate human readable html
+
+```
+pug -P
 ```
